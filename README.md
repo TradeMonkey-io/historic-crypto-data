@@ -48,4 +48,4 @@ The history is available in the smallest possible 1-minute interval and is store
 
 ## Feedback and Get in Touch
 
-
+TradeMonkey.io@proton.me
